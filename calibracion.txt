@@ -1,0 +1,6 @@
+voltaje: 3.882      punto 2 (con carga de 0.45 ampers)  
+voltaje: 3.646      punto 1 (sin carga 0 amper)         
+
+sensivilidad = m =(v2 - v1)/(i2 - i1)
+
+m=16/49= 0.524
